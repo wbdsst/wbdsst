@@ -1,6 +1,6 @@
-Hi there, I'm ``wbdsst`` :wave:
+``Hello world``, I'm **wbdsst** :wave:
 
-Full Stack Developer :moneybag:
+*I'm gaining skills for a full stack developer* :moneybag:
 
 About me:
 
