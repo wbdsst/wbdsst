@@ -1,6 +1,6 @@
-<center>Hi there, I'm ``wbdsst`` :wave:</center>
+Hi there, I'm ``wbdsst`` :wave:
 
-<center>Full Stack Developer :moneybag:</center>
+Full Stack Developer :moneybag:
 
 About me:
 
